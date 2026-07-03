@@ -38,7 +38,7 @@ const RotatingFlowers = ({
     esm.AbsoluteFill,
     {
       style: {
-        background: "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
+        background: "linear-gradient(130deg, #a18cd1 0%, #fbc2eb 100%)",
         justifyContent: "center",
         alignItems: "center"
       },
